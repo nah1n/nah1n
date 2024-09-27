@@ -9,5 +9,5 @@ Meu nome nome e Nahin Emanuel
  ### Voce entrar em contato comigo
  00001142667856SP@al.educacao.sp.gov.br
 
-
+!{}()
  https://media.tenor.com/EkuLmLWlC1kAAAAi/um.gif
