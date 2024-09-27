@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @nah1n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Boas vindas ao meu perfil
 
-<!---
-nah1n/nah1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome nome e Nahin Emanuel
+
+- Estou estudando na Alura
+- Estou desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
+
+ ### Voce entrar em contato comigo
+ 00001142667856SP@al.educacao.sp.gov.br
+
+
+ https://media.tenor.com/EkuLmLWlC1kAAAAi/um.gif
